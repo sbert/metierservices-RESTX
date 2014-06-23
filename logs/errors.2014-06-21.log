@@ -1,0 +1,4 @@
+2014-06-21 09:34:58,406 [qtp1337344609-25] [admin     ] ERROR rest.MetierResource - metiers : org.jongo.MongoIterator@5f9d9ac5
+2014-06-21 09:40:20,847 [qtp1337344609-24] [admin     ] ERROR rest.MetierResource - metiers : org.jongo.MongoIterator@702782b
+2014-06-21 09:41:09,867 [qtp1337344609-22] [admin     ] ERROR rest.MetierResource - metiers : false
+2014-06-21 09:42:05,359 [qtp1337344609-25] [admin     ] ERROR rest.MetierResource - metiers : false
